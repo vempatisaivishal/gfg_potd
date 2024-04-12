@@ -1,2 +1,2 @@
 # gfg_potd
-making use of daily learning from gfg potd april 1st 2024
+making use of daily learning from gfg potd may 1st 2024
